@@ -16,4 +16,4 @@ public class Demodt
     Demodt d=new Demodt();
     d.display();
    }
-}
+} 
